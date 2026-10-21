@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://cybersheild-iz8y.vercel.app/api";
+const API_BASE_URL = "https://cybersheild-theta.vercel.app/api";
 
 /* =========================================================
    AUTHENTICATION
