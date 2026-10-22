@@ -23,28 +23,28 @@ Middleware / utilities	CORS, dotenv, Helmet, Morgan, express-rate-limit
 
 
 📁 Project Structure
-cyber/
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── api.js
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   ├── index.css
-│   │   └── main.jsx
-│   ├── package.json
-│   └── vite.config.js
-└── backend/
-    ├── src/
-    │   ├── config/
-    │   ├── controllers/
-    │   ├── middleware/
-    │   ├── models/
-    │   ├── routes/
-    │   └── services/
-    ├── server.js
-    └── package.json
+The repository is organized into two main folders:
+- frontend/ — React and Vite user interface
+  - public/ — static public assets
+  - src/ — application source code
+    - assets/ — images and other assets
+    - api.js — frontend API requests
+    - App.jsx — main React application
+    - App.css — application styles
+    - index.css — global styles
+    - main.jsx — React entry point
+  - package.json — frontend dependencies and scripts
+  - vite.config.js — Vite configuration
+- backend/ — Express API and server
+  - src/
+    - config/ — configuration and database connection
+    - controllers/ — request handlers
+    - middleware/ — authentication and validation middleware
+    - models/ — database models
+    - routes/ — API route definitions
+    - services/ — application services
+  - server.js — backend entry point
+  - package.json — backend dependencies and scripts
 ⚙️ Run Locally
 Prerequisites
 - Node.js and npm
@@ -105,7 +105,8 @@ Additional administrator endpoints are defined in backend/src/routes/adminRoutes
 CyberShield is an ongoing project. Features and implementation details may change as development continues.
 👨‍💻 Author
 Shaik Arshad Ahmad
-If you find this project useful, consider giving the repository a ⭐ on GitHub<img width="1902" height="887" alt="Screenshot 2026-10-22 231320" src="https://github.com/user-attachments/assets/09755cd3-7446-4271-a122-e75e237d6f2d" />
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
+<img width="1902" height="887" alt="Screenshot 2026-10-22 231320" src="https://github.com/user-attachments/assets/09755cd3-7446-4271-a122-e75e237d6f2d" />
 <img width="1917" height="907" alt="Screenshot 2026-10-22 231219" src="https://github.com/user-attachments/assets/ea92fdef-3974-4218-bcc5-e696093e9918" />
 <img width="1916" height="888" alt="Screenshot 2026-10-22 231041" src="https://github.com/user-attachments/assets/b14c6064-482c-4e9f-9df3-4db7d5638fb0" />
 <img width="1915" height="897" alt="Screenshot 2026-10-22 231021" src="https://github.com/user-attachments/assets/db183958-31f5-4203-b314-015216ac6d85" />
