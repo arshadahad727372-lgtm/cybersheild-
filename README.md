@@ -110,5 +110,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub<
 <img width="1901" height="898" alt="image" src="https://github.com/user-attachments/assets/fa415875-2dba-482e-9680-34891e5a8d24" />
 <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/1ae52cfe-6e01-4aaa-a784-bf224135b389" />
 <img width="1865" height="902" alt="Screenshot 2026-10-22 230833" src="https://github.com/user-<img width="1902" height="887" alt="image" src="https://github.com/user-attachments/assets/e45f10d6-3123-4f0f-989d-37b3e916e14a" />
-<img width="1917" height="907" alt="Screenshot 2026-10-22 231219" src="https://github.com/user-attachments/assets/8dd00137-be2a-4394-a841-83df1ed5e498" />
-attachments/assets/0bcd6e53-abf6-4c9a-b049-96a359fd1e35" />
+<img width="1917" height="907" alt="Screenshot 2026-10-22 231219" src="https://github.com/user-attachments/assets/8dd00137-be2a-4394-a841-83df1ed5e498"
