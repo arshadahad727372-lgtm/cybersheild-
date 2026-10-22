@@ -105,9 +105,9 @@ Additional administrator endpoints are defined in backend/src/routes/adminRoutes
 CyberShield is an ongoing project. Features and implementation details may change as development continues.
 👨‍💻 Author
 Shaik Arshad Ahmad
-If you find this project useful, consider giving the repository a ⭐ on GitHub<img width="1916" height="888" alt="image" src="https://github.com/user-attachments/assets/4058a229-ef9b-47a5-9b7e-90e40973f52e" />
-<img width="1915" height="897" alt="image" src="https://github.com/user-attachments/assets/33443adb-1a76-4133-a0ee-8af8eda1ab28" />
-<img width="1901" height="898" alt="image" src="https://github.com/user-attachments/assets/fa415875-2dba-482e-9680-34891e5a8d24" />
-<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/1ae52cfe-6e01-4aaa-a784-bf224135b389" />
-<img width="1865" height="902" alt="Screenshot 2026-10-22 230833" src="https://github.com/user-<img width="1902" height="887" alt="image" src="https://github.com/user-attachments/assets/e45f10d6-3123-4f0f-989d-37b3e916e14a" />
-<img width="1917" height="907" alt="Screenshot 2026-10-22 231219" src="https://github.com/user-attachments/assets/8dd00137-be2a-4394-a841-83df1ed5e498"
+If you find this project useful, consider giving the repository a ⭐ on GitHub<img width="1902" height="887" alt="Screenshot 2026-10-22 231320" src="https://github.com/user-attachments/assets/09755cd3-7446-4271-a122-e75e237d6f2d" />
+<img width="1917" height="907" alt="Screenshot 2026-10-22 231219" src="https://github.com/user-attachments/assets/ea92fdef-3974-4218-bcc5-e696093e9918" />
+<img width="1916" height="888" alt="Screenshot 2026-10-22 231041" src="https://github.com/user-attachments/assets/b14c6064-482c-4e9f-9df3-4db7d5638fb0" />
+<img width="1915" height="897" alt="Screenshot 2026-10-22 231021" src="https://github.com/user-attachments/assets/db183958-31f5-4203-b314-015216ac6d85" />
+<img width="1917" height="897" alt="Screenshot 2026-10-22 230920" src="https://github.com/user-attachments/assets/3bc99cd9-710b-46cf-abee-55f57f996270" />
+<img width="1865" height="902" alt="Screenshot 2026-10-22 230833" src="https://github.com/user-attachments/assets/bd07b61e-70f4-4b52-9f02-02420825b641" />
